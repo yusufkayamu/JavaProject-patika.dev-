@@ -34,14 +34,6 @@ public class Hesap {
         System.out.println("SINIF GECME DURUMUNUZ ="+ sonuc);
 
 
-
-
-
-
-
-
-
-
     }
 
 }
